@@ -59,4 +59,3 @@ export const config = {
 
 // {{note_en.DATA}}  
 // {{note_ch.DATA}}
-Footer
